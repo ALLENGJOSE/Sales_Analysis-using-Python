@@ -1,5 +1,5 @@
-# Sales_Analysis-using-Python
-This Jupyter notebook contains the in-depth analysis of diwali sales for identifying patterns and optimizing customer experience.
-/
-ll
-/
+## Sales_Analysis-using-Python
+This repository contains an analysis of sales data, focusing on customer demographics and product categories.
+
+
+
