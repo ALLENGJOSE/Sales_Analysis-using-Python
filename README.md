@@ -6,4 +6,4 @@ This repository contains an analysis of sales data, focusing on customer demogra
 - Insights on target demographics
 - Recommendations for business strategies
 
-View:https://github.com/ALLENGJOSE/Sales_Analysis-using-Python/blob/main/Sales_Analysis.ipynb
+View Project :https://github.com/ALLENGJOSE/Sales_Analysis-using-Python/blob/main/Sales_Analysis.ipynb
